@@ -1,4 +1,4 @@
-Deneme amaçlı kodlayıp sonradan paylaşma kararı aldığım v14 bot. Botu kendiniz yaptığınız botmuş gibi gösterip millete parayla satmadığınız sürece istediğiniz gibi kullanabilirsiniz alın kullanın işte beleş altyapı .d. 
+Deneme amaçlı kodlayıp sonradan paylaşma kararı aldığım v14 bot. Botu kendiniz yaptığınız botmuş gibi gösterip millete parayla satmadığınız sürece istediğiniz gibi kullanabilirsiniz alın kullanın işte beleş altyapı .d
 
 Bugün repoya yükleyeceğim botu star falan istemiyorum.
 
