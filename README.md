@@ -2,5 +2,5 @@ Deneme amaçlı kodlayıp sonradan paylaşma kararı aldığım v14 bot. Botu ke
 
 Bugün repoya yükleyeceğim botu star falan istemiyorum.
 
-**Eklememi istediğiniz özellik olursa veya yardıma ihtiyacınız olursa 
+**Eklememi istediğiniz özellik veya yardıma ihtiyacınız olursa 
 Discord: Ψ TitanLion#8054(589058138305462276)**
