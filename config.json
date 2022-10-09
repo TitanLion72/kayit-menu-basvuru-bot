@@ -1,0 +1,13 @@
+{
+    "token": "Discord Developerdan aldığınız bot tokeni", 
+    "guildID": "Sunucu idsi",
+    "botDurum": "bot durumunda gözükecek yazı",
+    "Footer": "embedin en altında gözükecek yazı",
+    "uyerol": "kayıt ederken verilecek rol",
+    "kayıtlog": "1028379952732717127",
+    "sohbetKanalı": "1028379952732717127",
+    "etkinlikKatılımcısı": "etkinlik katılımcısı rolü",
+    "cekilisKatılımcısı": "çekiliş katılımcısı rolü",
+    "yetkiRolleri": ["rol1","rol2","rol3"],
+    "basvuruYt": "başvuruyu kabul/reddetme yetkisine sahip rol"
+}

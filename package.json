@@ -1,0 +1,31 @@
+{
+  "name": "titan-kayit-menu-basvuru-bot",
+  "version": "1.0.0",
+  "description": "Alın kullanın iste olm beles altyapı xd deneme amaclı kodlamıstım sonradan paylasma kararı aldım hatasızdır istediginiz gibi kullanın iyi kodlamalar/calmalar sahte botcu abiler",
+  "main": "titan.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TitanLion72/kayit-menu-basvuru-bot.git"
+  },
+  "keywords": [
+    "TitanLion",
+    "kayıt",
+    "basvuru",
+    "destek",
+    "menu",
+    "rol-menu"
+  ],
+  "author": "TitanLion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TitanLion72/kayit-menu-basvuru-bot/issues"
+  },
+  "homepage": "https://github.com/TitanLion72/kayit-menu-basvuru-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.4.0",
+    "orio.db": "^3.1.2"
+  }
+}
