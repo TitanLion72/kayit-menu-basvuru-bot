@@ -2,6 +2,8 @@ Deneme amaçlı kodlayıp sonradan paylaşma kararı aldığım v14 bot. Botu ke
 
 Bu akşam repoya yükleyeceğim botu star falan istemiyorum.
  **kurulumu nasıl diye soracaksanız yapmanız gerekenler basit.**
+ 
+ Botunuza yetki vermeyi ve başvuru-log / başvuru-durum isminde 2 kanal açmayı unutmayın
 
 orio.db ve discord.js@14.4.0 kur onu da yapmayı bilmiyorsan alttaki yazdığımı kopyala 2 paketi kur sonrasında config.jsonu doldur ve kullan bu kadar basit.
 
