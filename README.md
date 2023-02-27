@@ -1,8 +1,7 @@
 Deneme amaçlı kodlayıp sonradan paylaşma kararı aldığım v14 bot. Botu kendiniz yaptığınız botmuş gibi gösterip millete parayla satmadığınız sürece istediğiniz gibi kullanabilirsiniz alın kullanın işte beleş altyapı .d **öyle mükememel bir bot değil ama yararlanmanız için paylaştım görseller aşağıda zaten beğenirsen indir kullan** 
 
- **Botu .başvuru komutu kullandığımızda butonlu olacak şekilde kategorili olarak atmasını ve görünüm olarak daha iyi olacak şekilde düzenlememi ister misiniz? Eğer isterseniz githubda issues kısmından yazın ona göre botu da mongolu yapacağım**  
+ **Botu .başvuru komutu kullandığımızda butonlu olacak şekilde kategorili olarak atmasını ve görünüm olarak daha iyi olacak şekilde düzenleyip atacağım 20 starda mongolu yapacağım**  
 
-Bu akşam repoya yükleyeceğim botu star falan istemiyorum.
  **kurulumu nasıl diye soracaksanız yapmanız gerekenler basit.**
  
  Botunuza yetki vermeyi ve başvuru-log / başvuru-durum isminde 2 kanal açmayı unutmayın
