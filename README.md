@@ -18,7 +18,7 @@ npm i orio.db**
 !başvuru*
 
 **Eklememi istediğiniz özellik veya yardıma ihtiyacınız olursa 
-Discord: TitanLion#8054(589058138305462276)**
+Discord: TitanLion#0172(589058138305462276)**
 ![image](https://user-images.githubusercontent.com/110048828/194768451-cc16f356-90c8-445e-9cf0-9a637ba730e2.png)
 ![image](https://user-images.githubusercontent.com/110048828/194768463-de4bb12f-49d1-4fea-90b9-ad614d6a3b6c.png)
 ![image](https://user-images.githubusercontent.com/110048828/194768474-02f8f315-d83c-4797-9ab7-f8d0395d62f5.png)
