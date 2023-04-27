@@ -1,21 +1,24 @@
-Deneme amaçlı kodlayıp sonradan paylaşma kararı aldığım v14 bot. Botu kendiniz yaptığınız botmuş gibi gösterip millete parayla satmadığınız sürece istediğiniz gibi kullanabilirsiniz alın kullanın işte beleş altyapı .d **öyle mükememel bir bot değil ama yararlanmanız için paylaştım görseller aşağıda zaten beğenirsen indir kullan** 
+**BOT**
+
+Deneme amaçlı kodlayıp sonradan paylaşma kararı aldığım v14 bot. Botu kendiniz yaptığınız botmuş gibi gösterip millete parayla satmadığınız sürece istediğiniz gibi kullanabilirsiniz öyle mükememel bir bot değil ama yararlanmanız için paylaştım görseller aşağıda zaten beğenirsen indir kullan.
 
  **Botu .başvuru komutu kullandığımızda butonlu olacak şekilde kategorili olarak atmasını ve görünüm olarak daha iyi olacak şekilde düzenleyip atacağım 20 starda mongolu yapacağım**  
 
- **kurulumu nasıl diye soracaksanız yapmanız gerekenler basit.**
+ **KURULUM**
  
- Botunuza yetki vermeyi ve başvuru-log / başvuru-durum isminde 2 kanal açmayı unutmayın
+Botunuza yetki vermeyi ve başvuru-log / başvuru-durum isminde 2 kanal açmayı unutmayın
 
 orio.db ve discord.js@14.4.0 kur onu da yapmayı bilmiyorsan alttaki yazdığımı kopyala 2 paketi kur sonrasında config.jsonu doldur ve kullan bu kadar basit.
 
-**npm i discord.js@14.4.0 &&
-npm i orio.db**
+**npm i discord.js@14.4.0 orio.db**
 
 **KOMUTLAR**:
 
 *!kayıtbuton
 !rolmenü
 !başvuru*
+
+**GÖRSELLER**
 
 **Eklememi istediğiniz özellik veya yardıma ihtiyacınız olursa 
 Discord: TitanLion#0172(589058138305462276)**
