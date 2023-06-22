@@ -1,5 +1,7 @@
 **BOT**
 
+(EN YAKIN ZAMANDA YENİSİ GELECEKTİR ACEMİLİK DÖNEMİMDE KODLADIĞIM BİR BOT OLDUĞU İÇİN BEĞENECEĞİNİZİ DÜŞÜNMÜYORUM ZATEN ÖĞRENMEK AMAÇLI KULLANABİLİRSİNİZ SUNUCULARDA KULLANMAK İÇİN ÇOK DAHA İYİ OLAN VERSİYONU GELECEK)
+
 Deneme amaçlı kodlayıp sonradan paylaşma kararı aldığım v14 bot. Botu kendiniz yaptığınız botmuş gibi gösterip millete parayla satmadığınız sürece istediğiniz gibi kullanabilirsiniz öyle mükememel bir bot değil ama yararlanmanız için paylaştım görseller aşağıda zaten beğenirsen indir kullan.
 
  **Botu .başvuru komutu kullandığımızda butonlu olacak şekilde kategorili olarak atmasını ve görünüm olarak daha iyi olacak şekilde düzenleyip atacağım 20 starda mongolu yapacağım**  
@@ -21,7 +23,7 @@ orio.db ve discord.js@14.4.0 kur onu da yapmayı bilmiyorsan alttaki yazdığım
 **GÖRSELLER**
 
 **Eklememi istediğiniz özellik veya yardıma ihtiyacınız olursa 
-Discord: TitanLion#0172(589058138305462276)**
+Discord: titanlion0172(589058138305462276)**
 ![image](https://user-images.githubusercontent.com/110048828/194768451-cc16f356-90c8-445e-9cf0-9a637ba730e2.png)
 ![image](https://user-images.githubusercontent.com/110048828/194768463-de4bb12f-49d1-4fea-90b9-ad614d6a3b6c.png)
 ![image](https://user-images.githubusercontent.com/110048828/194768474-02f8f315-d83c-4797-9ab7-f8d0395d62f5.png)
